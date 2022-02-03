@@ -1,0 +1,29 @@
+[
+  {
+    "title": "More than just consultants",
+    "description": "Securze is a full-service IT company. We can combine IT consulting with end-to-end IT services: implementation, support, managed services.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Fast service results",
+    "description": "We advocate incremental and steady changes to help you get the first positive outcomes and continue increasing them further.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Innovative Solutions",
+    "description": "We have prepaid as well as customized solutions for our clients. Our solutions are innovative to give you a competitive advantage over the rest",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

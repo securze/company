@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/securze_",
+    "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://instagram.com/securze",
+    "image": "images/social/instagram.png"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/company/securze",
+    "image": "images/social/linkedin.png"
+  }
+]
