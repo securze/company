@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-[<b>Click Here</b>](https://forms.gle/c4RrBJiaFw6xonKF9) to submit an enquiry releated to our services.
+Have a query? Submit it to us by [<b>clicking here</b>](https://forms.gle/c4RrBJiaFw6xonKF9)
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
