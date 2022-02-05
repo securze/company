@@ -17,7 +17,7 @@ Securze pentest approach goes beyond the test cases mentioned in the OWASP top 1
 
 Download our Brochure for detailed information regarding our services and packages: 
 
-<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-brochure.pdf">
 <img src="/images/download.png"></a>
 
 Have a question?

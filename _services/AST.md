@@ -16,7 +16,7 @@ With our skilled team of Security Analysts, we can help you mitigate any vulnera
 
 Download our Brochure for detailed information regarding our services and packages: 
 
-<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-brochure.pdf">
 <img src="/images/download.png"></a>
 
 Have a question?

@@ -32,7 +32,7 @@ From large companies to small businesses, we have helped hundreds of companies s
 
 Download our Brochure for detailed information regarding our services and packages: 
 
-<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-brochure.pdf">
 <img src="/images/download.png"></a>
 
 Have a query?
