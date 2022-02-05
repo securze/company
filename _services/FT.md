@@ -2,7 +2,7 @@
 title: "Functionality Testing"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 3
+weight: 6
 ---
 
 <img src="https://www.etelligens.com/wp-content/uploads/2019/10/functional-testing2.jpg">

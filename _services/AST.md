@@ -2,7 +2,7 @@
 title: "API Security Testing"
 date: 2018-11-28T15:15:34+10:00
 featured: true
-weight: 4
+weight: 3
 ---
 
 <img src="https://data.1freewallpapers.com/download/code-programming-monitor-hacker-1920x1080.jpg">
