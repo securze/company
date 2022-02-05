@@ -8,4 +8,8 @@ intro_image_hide_on_mobile: true
 ---
 
 The following companies rely on our solutions on their daily operations
-<img src="">
+
+
+<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/vct.png">
+
+<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/cf.png">
