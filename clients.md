@@ -1,6 +1,6 @@
 ---
 title: Our clients
-layout: clients
+layout: services
 description: Our Clients
 intro_image: "images/illustrations/clients.png"
 intro_image_absolute: true
