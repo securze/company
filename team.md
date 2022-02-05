@@ -35,7 +35,28 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
 
 <!--WhatsApp-->
+<script>
+(function (w, d, s, u) {
+w.gbwawc = {
+url: u,
+options: {
+        waId: "+918454051344",
+        siteName: "Securze",
+        siteTag: "We provide IT Security Services",
+        siteLogo: "https://securze.com/images/favicon-resized.png",
+        widgetPosition: "RIGHT",
+        triggerMessage: "",
+        welcomeMessage: "Hello!👋How can I help you?",
+        brandColor: "#25D366",
+        messageText: "",
+        replyOptions: ['','',''],
+    },
+};
+var h = d.getElementsByTagName(s)[0],
+j = d.createElement(s);
+j.async = true;
+j.src = u + "/whatsapp-widget.min.js?_=" + Math.random();
+h.parentNode.insertBefore(j, h);
+})(window, document, "script", "https://waw.gallabox.com");
+</script>
 
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-2ecf9940-e516-4bc6-bd7c-cb4f05d2a755"></div>
