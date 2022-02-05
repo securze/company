@@ -32,7 +32,7 @@ From large companies to small businesses, we have helped hundreds of companies s
 
 <b>For detailed information of our packages, [Click Here](https://github.com/notmarshmllow/company/raw/master/images/pfds/Web%20Application%20Security%20Testing.pdf)</b>
 
-<a href="#">
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
 <img src="/images/download.png"></a>
 
 <script type="text/javascript">
