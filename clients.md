@@ -9,7 +9,9 @@ intro_image_hide_on_mobile: true
 
 The following companies rely on our solutions on their daily operations
 
-
+<a href="https://viacreativetech.com/">
 <img src="https://raw.githubusercontent.com/securze/company/main/images/logo/vct.png" width=100 height=100>
-
+</a>
+<a href="https://campusfunda.com/">
 <img src="https://raw.githubusercontent.com/securze/company/main/images/logo/cf.png">
+</a>
