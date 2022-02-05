@@ -16,7 +16,7 @@
   },
   {
     "name": "Email",
-    "link": "team@securze.com",
+    "mailto": "team@securze.com",
     "image": "images/social/email.png"
   }
 ]
