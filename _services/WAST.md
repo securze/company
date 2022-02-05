@@ -30,7 +30,7 @@ Retests to verify and validate testing results to address whether yoursecurity i
 
 From large companies to small businesses, we have helped hundreds of companies secure their most valuable data. Our solutions are customized to meet your needs and requirements. When you're ready to secure your organization, choose us as your partner.
 
-<b>For detailed information of our packages, [Click Here](https://github.com/notmarshmllow/company/raw/master/images/pfds/Web%20Application%20Security%20Testing.pdf)</b>
+# For more information regarding our packages,
 
 <a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
 <img src="/images/download.png"></a>
