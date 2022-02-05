@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Have a query? Submit it to us by [<b>clicking here</b>](https://forms.gle/c4RrBJiaFw6xonKF9)
+Have a query? Submit it to us by clicking [<b>here</b>](https://forms.gle/c4RrBJiaFw6xonKF9)
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
