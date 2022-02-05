@@ -9,7 +9,9 @@ weight: 6
 
 We conduct profesional functionality testing of your Application - Web and Android. Our Functionality Testing services ensures functionality, reliability and stability of a product/service before it enters the production phase. 
 
-[Click Here to enquire more](https://forms.gle/8LwiF23jbytmdm4F6)
+Have a query?
+
+[Click Here](https://forms.gle/8LwiF23jbytmdm4F6) to enquire more or message us using the chat button
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){

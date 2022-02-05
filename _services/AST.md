@@ -14,7 +14,14 @@ To make your data safe from hackers, you should use API security testing and ens
 
 With our skilled team of Security Analysts, we can help you mitigate any vulnerability in your API Infrastructure making your application more secure than before. 
 
-[Click Here to enquire more](https://forms.gle/8LwiF23jbytmdm4F6)
+Download our Brochure for detailed information regarding our services and packages: 
+
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
+<img src="/images/download.png"></a>
+
+Have a question?
+
+[Click Here](https://forms.gle/8LwiF23jbytmdm4F6) to enquire more or message us using the chat button
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){

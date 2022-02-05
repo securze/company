@@ -13,5 +13,10 @@
     "name": "LinkedIn",
     "link": "https://linkedin.com/company/securze",
     "image": "images/social/linkedin.png"
+  },
+  {
+    "name": "Email",
+    "link": "team@securze.com",
+    "image": "images/social/email.png"
   }
 ]

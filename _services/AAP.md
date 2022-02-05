@@ -15,7 +15,14 @@ The prime objective of security testing is to find out how vulnerable a system m
 Securze pentest approach goes beyond the test cases mentioned in the OWASP top 10 SANS, NIST frameworks. Securze helped customers for spotting the high business risk vulnerabilities such as authentication, authorization, and business logic vulnerabilities which may results in data breach. Enterprises and SME organizations used our application pentest service for improving posture without spending a million dollars.
 
 
-[Click Here to enquire more](https://forms.gle/8LwiF23jbytmdm4F6)
+Download our Brochure for detailed information regarding our services and packages: 
+
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
+<img src="/images/download.png"></a>
+
+Have a question?
+
+[Click Here](https://forms.gle/8LwiF23jbytmdm4F6) to enquire more or message us using the chat button
 
 
 <script type="text/javascript">

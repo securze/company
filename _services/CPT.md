@@ -16,7 +16,6 @@ AWS penetration testing helps you find cloud security gaps that create exposure 
 
 During AWS penetration tests, Securze identifies vulnerabilities, credentials, and misconfigurations that allow our expert cloud pentesters to access restricted resources, elevate user privileges, and expose sensitive data. Testing also identifies exposure of internet-exposed management interfaces, S3 buckets exposed to the internet, and security gaps in AWS Identity and Access Management (IAM) configurations.
 
-> [Click Here to enquire more](https://forms.gle/8LwiF23jbytmdm4F6)
 
 <b>Azure Penetration Testing</b>
 
@@ -24,7 +23,6 @@ Whether you are migrating to Azure, developing applications in Azure, or pentest
 
 Securze identifies high impact vulnerabilities found in your Azure cloud services, including applications exposed to the internet. Our Azure pentesting also finds credentials, excessive privileges, and misconfigurations in Azure Active Directory that can lead to the compromise of your Azure infrastructure and enable an attacker to expose sensitive data, take over Azure resources, or pivot to attack your internal network.
 
-> [Click Here to enquire more](https://forms.gle/8LwiF23jbytmdm4F6)
 
 <b>Google Cloud Platform Penetration Testing</b>
 
@@ -32,7 +30,14 @@ Google Cloud penetration testing helps organizations establish security as they 
 
 During Google Cloud penetration tests, Securze tests for vulnerabilities that adversaries can exploit. Our testing goes beyond automated scanning to manually exploit vulnerabilities and misconfigurations to identify security gaps in your Google Cloud attack surface.
 
-> [Click Here to enquire more](https://forms.gle/8LwiF23jbytmdm4F6)
+Download our Brochure for detailed information regarding our services and packages: 
+
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
+<img src="/images/download.png"></a>
+
+Have a question?
+
+[Click Here](https://forms.gle/8LwiF23jbytmdm4F6) to enquire more or message us using the chat button
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){

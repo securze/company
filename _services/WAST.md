@@ -30,10 +30,14 @@ Retests to verify and validate testing results to address whether yoursecurity i
 
 From large companies to small businesses, we have helped hundreds of companies secure their most valuable data. Our solutions are customized to meet your needs and requirements. When you're ready to secure your organization, choose us as your partner.
 
-# For more information regarding our packages,
+Download our Brochure for detailed information regarding our services and packages: 
 
 <a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Brochure.pdf">
 <img src="/images/download.png"></a>
+
+Have a query?
+
+[Click Here](https://forms.gle/8LwiF23jbytmdm4F6) to enquire more or message us using the chat button
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
