@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Securze'
 
 logo:
-  mobile: "images/logo/securze-2.png"
+  mobile: "images/logo/logo-mobile.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/securze-1.png"
+  desktop: "images/logo/logo-desktop.png"
   desktop_height: "32px"
   desktop_width: "120px"
 
