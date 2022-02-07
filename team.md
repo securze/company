@@ -40,10 +40,10 @@ s0.parentNode.insertBefore(s1,s0);
 w.gbwawc = {
 url: u,
 options: {
-        waId: "+918454051344",
+        waId: "+918451073938",
         siteName: "Securze",
-        siteTag: "We provide IT Security Services",
-        siteLogo: "https://securze.com/images/favicon-resized.png",
+        siteTag: "Online",
+        siteLogo: "https://raw.githubusercontent.com/securze/company/main/images/logo/logo-hd-removebg.png",
         widgetPosition: "RIGHT",
         triggerMessage: "",
         welcomeMessage: "Hello!👋How can I help you?",
@@ -59,4 +59,3 @@ j.src = u + "/whatsapp-widget.min.js?_=" + Math.random();
 h.parentNode.insertBefore(j, h);
 })(window, document, "script", "https://waw.gallabox.com");
 </script>
-

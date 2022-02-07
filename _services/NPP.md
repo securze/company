@@ -2,7 +2,7 @@
 title: "Infrastructure Security Testing"
 date: 2018-11-28T15:14:39+10:00
 featured: true
-weight: 3
+weight: 4
 ---
 <img src="https://www.teahub.io/photos/full/226-2263470_network-infrastructure.jpg">
 
@@ -54,11 +54,11 @@ s0.parentNode.insertBefore(s1,s0);
 w.gbwawc = {
 url: u,
 options: {
-        waId: "+918454051344",
+        waId: "+918451073938",
         siteName: "Securze",
-        siteTag: "We provide IT Security Services",
-        siteLogo: "https://securze.com/images/favicon-resized.png",
-        widgetPosition: "LEFT",
+        siteTag: "Online",
+        siteLogo: "https://raw.githubusercontent.com/securze/company/main/images/logo/logo-hd-removebg.png",
+        widgetPosition: "RIGHT",
         triggerMessage: "",
         welcomeMessage: "Hello!👋How can I help you?",
         brandColor: "#25D366",
