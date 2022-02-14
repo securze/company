@@ -4,18 +4,7 @@ layout: contact
 description: Contact
 ---
 
-<script>
-    (async (f, o, r, m, s) => {
-    m = o.getElementsByTagName("head")[0];
-    s = o.createElement("script");
-    s.async = 1;
-    s.src = r;
-    s.onload = async () => {
-        let data = await f.wg.init("forms", "ap1", 26188, 32445, "forms/3038/embed", { width: "1200px", height: "750px" }, "widget", "DIV-ID");
-    };
-    m.appendChild(s);
-    })(window, document,  "https://infinity-public-js.500apps.com/widget.min.js");
-</script>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="2gkgyOXvOEC0CLxvCRM7Cw" data-form="1"></script>
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
