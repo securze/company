@@ -35,7 +35,7 @@ Download our Brochure for detailed information regarding our services and packag
 <a href="https://github.com/securze/company/raw/main/images/pfds/Securze-brochure.pdf">
 <img src="/images/download.png"></a>
 
-## Inquire now:
+
 
 <script src="https://www.cognitoforms.com/f/seamless.js" data-key="2gkgyOXvOEC0CLxvCRM7Cw" data-form="1"></script>
 
