@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 ---
 
 # What services we offer you
-We provide IT Security Services to our customer to protect their critical data from attacker/ malicious user by identifying vulnerability in their network and application. Services such as VAPT audits, Security gap analysis, Web Application Security audits (WAPT), System audits, and Network security audits and so on.
+We provide IT Security Services to our customer to protect their critical data from attacker/ malicious user by identifying vulnerability in their Web Applications, Android Applications and API. 
 
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
