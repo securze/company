@@ -20,9 +20,20 @@ Download our Brochure for detailed information regarding our services and packag
 <a href="https://github.com/securze/company/raw/main/images/pfds/Securze-brochure.pdf">
 <img src="/images/download.png"></a>
 
-Have a question?
+## Inquire now:
 
-[Click Here](https://forms.gle/8LwiF23jbytmdm4F6) to enquire more or message us using the chat button
+<script>
+    (async (f, o, r, m, s) => {
+    m = o.getElementsByTagName("head")[0];
+    s = o.createElement("script");
+    s.async = 1;
+    s.src = r;
+    s.onload = async () => {
+        let data = await f.wg.init("forms", "ap1", 26188, 32445, "forms/3038/embed", { width: "1200px", height: "750px" }, "widget", "DIV-ID");
+    };
+    m.appendChild(s);
+    })(window, document,  "https://infinity-public-js.500apps.com/widget.min.js");
+</script>
 
 
 <script type="text/javascript">
