@@ -32,7 +32,7 @@ From large companies to small businesses, we have helped hundreds of companies s
 
 Download our Brochure for detailed information regarding our services and packages: 
 
-<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-brochure.pdf">
+<a href="https://github.com/securze/company/raw/main/images/pfds/Securze-Company-Profile.pdf">
 <img src="/images/download.png"></a>
 
 
@@ -49,31 +49,7 @@ Download our Brochure for detailed information regarding our services and packag
 
 
 
-<!--WhatsApp-->
-<script>
-(function (w, d, s, u) {
-w.gbwawc = {
-url: u,
-options: {
-        waId: "+918451073938",
-        siteName: "Securze",
-        siteTag: "Online",
-        siteLogo: "https://raw.githubusercontent.com/securze/company/main/images/logo/logo-hd-removebg.png",
-        widgetPosition: "RIGHT",
-        triggerMessage: "",
-        welcomeMessage: "Hello!👋How can I help you?",
-        brandColor: "#25D366",
-        messageText: "",
-        replyOptions: ['','',''],
-    },
-};
-var h = d.getElementsByTagName(s)[0],
-j = d.createElement(s);
-j.async = true;
-j.src = u + "/whatsapp-widget.min.js?_=" + Math.random();
-h.parentNode.insertBefore(j, h);
-})(window, document, "script", "https://waw.gallabox.com");
-</script>
+
 
 
 

@@ -18,28 +18,4 @@ The following companies rely on our solutions on their daily operations
 <img src="https://raw.githubusercontent.com/securze/company/main/images/logo/cf.png">
 </a>
 
-<!--WhatsApp-->
-<script>
-(function (w, d, s, u) {
-w.gbwawc = {
-url: u,
-options: {
-        waId: "+918451073938",
-        siteName: "Securze",
-        siteTag: "Online",
-        siteLogo: "https://raw.githubusercontent.com/securze/company/main/images/logo/logo-hd-removebg.png",
-        widgetPosition: "RIGHT",
-        triggerMessage: "",
-        welcomeMessage: "Hello!👋How can I help you?",
-        brandColor: "#25D366",
-        messageText: "",
-        replyOptions: ['','',''],
-    },
-};
-var h = d.getElementsByTagName(s)[0],
-j = d.createElement(s);
-j.async = true;
-j.src = u + "/whatsapp-widget.min.js?_=" + Math.random();
-h.parentNode.insertBefore(j, h);
-})(window, document, "script", "https://waw.gallabox.com");
-</script>
+

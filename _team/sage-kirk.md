@@ -11,29 +11,5 @@ weight: 2
 
 Co_founder and Security Analyst at Securze, with 3+ Years of experiene in Cyber Security, WAPT and VAPT, Harsh is acknowledged by various top companies and organizations of the world namely Blackberry, Nokia, Samsung, BBC, Adobe, Huawei, Deutsche Telekom, RedBull and many more. He is very skilled and consistent at his job, constantly helping our clients securing their IT infrastructure. 
 
-<!--WhatsApp-->
-<script>
-(function (w, d, s, u) {
-w.gbwawc = {
-url: u,
-options: {
-        waId: "+918451073938",
-        siteName: "Securze",
-        siteTag: "Online",
-        siteLogo: "https://raw.githubusercontent.com/securze/company/main/images/logo/logo-hd-removebg.png",
-        widgetPosition: "RIGHT",
-        triggerMessage: "",
-        welcomeMessage: "Hello!👋How can I help you?",
-        brandColor: "#25D366",
-        messageText: "",
-        replyOptions: ['','',''],
-    },
-};
-var h = d.getElementsByTagName(s)[0],
-j = d.createElement(s);
-j.async = true;
-j.src = u + "/whatsapp-widget.min.js?_=" + Math.random();
-h.parentNode.insertBefore(j, h);
-})(window, document, "script", "https://waw.gallabox.com");
-</script>
+
 
