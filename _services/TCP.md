@@ -5,7 +5,7 @@ featured: true
 weight: 3
 ---
 
-<img src="">
+<img src="https://github.com/securze/company/blob/main/images/illustrations/Thick%20Client%20Pentesting.png?raw=true">
 
 Undoubtedly, penetration testing plays quite a crucial role when it comes to protecting your organization and valuable assets from potential hackers. However, the benefits of Thick Client Penetration Testing Service are far beyond data and network security.
 
@@ -17,11 +17,11 @@ Our thick client application assessments start with analyzing your thick client 
 # Architecture of Thick Client
 
 Two-Tier architecture:
-<hr=20%>
+
 In two-tier architecture, the thick client application implements a client-to-server communication. The application is installed on the client computer and, in order to work, will need to communicate with a database server. For example, imagine an HR application that was installed on the client computer and, in order to retrieve the employee's information, communicates directly with the HR database server.
 
 Three-Tier architecture:
-<hr=20%>
+
 In three-tier architecture, the client communicates with an application server, which in turn talks to the database in a manner similar to a regular web application. The most common communication method in these applications may be carried out using HTTP/HTTPS.
 Three-tier architecture has a security advantage over two-tier architecture, because it prevents the end-user from communicating directly with the database server.
 
