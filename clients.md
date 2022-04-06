@@ -22,5 +22,5 @@ The following companies rely on our solutions on their daily operations
 
 
 <a href="https://campusfunda.com/">
-<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/c&t.png">
+<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/c&t.png" width="50">
 </a>
