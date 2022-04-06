@@ -22,5 +22,5 @@ The following companies rely on our solutions on their daily operations
 
 
 <a href="https://cityandtalent.com/">
-<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/c&t.png" width="500">
+<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/c&t.png">
 </a>
