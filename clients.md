@@ -21,6 +21,6 @@ The following companies rely on our solutions on their daily operations
 
 
 
-<a href="https://campusfunda.com/">
+<a href="https://cityandtalent.com/">
 <img src="https://raw.githubusercontent.com/securze/company/main/images/logo/c&t.png" width="500">
 </a>
