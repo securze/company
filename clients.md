@@ -19,3 +19,8 @@ The following companies rely on our solutions on their daily operations
 </a>
 
 
+
+
+<a href="https://campusfunda.com/">
+<img src="https://raw.githubusercontent.com/securze/company/main/images/logo/c&t.png">
+</a>
